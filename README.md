@@ -12,7 +12,7 @@ This repository contains a utility tool built with React.js and Next.js a radio 
 
    ```bash
    git clone https://github.com/juanmaescudero/radio-player
-   cd base-64 
+   cd radio-player 
    
 2. Install dependencies:
 
