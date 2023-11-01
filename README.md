@@ -2,10 +2,9 @@
 
 This repository contains a utility tool built with React.js and Next.js a radio player. You can just change the json data in /public/mocks to start using your channels.
 
-<div float="left">
-    <img src="https://github.com/juanmaescudero/radio-player/blob/master/public/screenshots/sample-desktop.png?raw=true" alt="Radio player" width="290">
-    <img src="https://github.com/juanmaescudero/radio-player/blob/master/public/screenshots/sample-mobile.png?raw=true" alt="Radio player" width="190">
-</div>
+<p align="center">
+    <img src="https://github.com/juanmaescudero/radio-player/blob/master/public/screenshots/sample-desktop.png?raw=true" alt="Radio player">
+</p>
 
 ## Installation
 
